@@ -1,0 +1,19 @@
+# ML data & models
+fake_news_web/data/
+fake_news_web/models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database dump
+*.sql
+
+# Sensitive config
+config/db.php
