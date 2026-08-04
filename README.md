@@ -1,20 +1,20 @@
-# 🧠 ThinkPost — AI-Powered Blog Platform
+# ThinkPost — AI-Powered Blog Platform
 
 A full-stack blog platform with **fake news detection using Machine Learning**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User Authentication (Login/Register)
-- ✍️ Create, Edit, Delete Blogs
-- ❤️ Like & 💬 Comment system
-- 🧠 AI-based Fake News Detection
-- 📊 Credibility Score (TRUE / FAKE / UNCERTAIN)
+- User Authentication (Login/Register)
+- Create, Edit, Delete Blogs
+- Like & Comment system
+- AI-based Fake News Detection
+- Credibility Score (TRUE / FAKE / UNCERTAIN)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - PHP (Core logic)
@@ -30,9 +30,11 @@ A full-stack blog platform with **fake news detection using Machine Learning**.
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 1️⃣ Clone the repository
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/kishlay-git/ThinkPost.git
 cd ThinkPost
+```
